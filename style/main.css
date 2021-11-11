@@ -48,7 +48,7 @@ header nav a:hover{
     font-size: 16px;
     background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.100%)), url("../img/krblack.jpg");
 
-    height:500px;
+    height:800px;
     background-size: cover;
 
     display:flex;
@@ -108,6 +108,12 @@ header nav a:hover{
 
 .carrosel-filmes{
     margin-top: 5px;
+    
+}
+
+.carrosel-filmes img{
+    height: 500px;
+    
 }
 
 
