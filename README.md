@@ -7,10 +7,16 @@ O projeto "Tokuflix" foi desenvolvido no Bootcamp HTML Web developer. Trata-se d
 ## Tecnologias usadas no projeto:
 
 HTML
+
 CSS
+
 JavaScript
 
-Também foram utilizados a lib JQuery, icones do fontawesome nos botões e o carousel para dar o efeito de giro no conteúdo
+Também foram utilizados a lib JQuery, ícones do fontawesome nos botões e o carousel para dar o efeito de giro no conteúdo
+
+## Layout:
+
+![Web](https://github.com/JeanSouza911/-Clone-Netflix-/blob/master/img/projeto.png)
 
 # Autor
 
