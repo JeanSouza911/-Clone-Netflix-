@@ -18,7 +18,7 @@ Também foram utilizados a lib JQuery, ícones do fontawesome nos botões e o ca
 
 ![Web](https://github.com/JeanSouza911/-Clone-Netflix-/blob/master/img/projeto.png)
 
-# Autor
+# Autor:
 
 Jean Souza
 
